@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d76594b7-61bb-43e1-8e58-2156d23966a1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="503280493">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="svg" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="SVG" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="svg" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="SVG" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/actions/12/object-fill.svg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>planwork.svg</find>
+      <find>sheets.svg</find>
+      <find>libreoffice-main.svg</find>
+      <find>libreoffice-base.svg</find>
+      <find>libreoffice-calc.svg</find>
+      <find>libreoffice-draw.svg</find>
+      <find>libreoffice-impress.svg</find>
+      <find>libreoffice-math.svg</find>
+      <find>libreoffice-startcenter.svg</find>
+      <find>libreoffice-writer.svg</find>
+      <find>nvidia.svg</find>
+      <find>nylas.svg</find>
+      <find>octave.svg</find>
+      <find>builder.svg</find>
+      <find>cheese.svg</find>
+      <find>gnome-logo-icon.svg</find>
+      <find>akregator.svg</find>
+      <find>system-file-manager.svg</find>
+      <find>lollypop.svg</find>
+      <find>instagram.svg</find>
+      <find>seafile.svg</find>
+      <find>system-run.svg</find>
+      <find>skype.svg</find>
+      <find>java.svg</find>
+      <find>transmission.svg</find>
+      <find>application-x-javascript.svg</find>
+      <find>application-x-macbinary.svg</find>
+      <find>application-x-pem-key.svg</find>
+      <find>application-pgp-signature.svg</find>
+      <find>application-certificate.svg</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 16 16&quot;&gt;   &lt;defs id=&quot;defs3051&quot;&gt;     &lt;style type=&quot;text/css&quot; id=&quot;current-color-scheme&quot;&gt;       .ColorScheme-Text {         color:#4d4d4d;       }       &lt;/style&gt;   &lt;/defs&gt;  &lt;path style=&quot;fill:currentColor;fill-opacity:1;stroke:none&quot;       d=&quot;M 1 2 L 1 14 L 15 14 L 15 2 L 1 2 z M 2.7070312 3 L 13.292969 3 L 8 8.2929688 L 2.7070312 3 z M 2 3.7070312 L 5.9335938 7.640625 L 2 12.230469 L 2 3.7070312 z M 14 3.7070312 L 14 12.232422 L 10.066406 7.640625 L 14 3.7070312 z M 6.6425781 8.3496094 L 8 9.7070312 L 9.3574219 8.3496094 L 13.341797 13 L 2.65625 13 L 6.6425781 8.3496094 z &quot;      class=&quot;ColorScheme-Text&quot;      /&gt; &lt;/svg&gt;</replace>
+      <replace>&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 16 16&quot;&gt;   &lt;defs id=&quot;defs3051&quot;&gt;     &lt;style type=&quot;text/css&quot; id=&quot;current-color-scheme&quot;&gt;       .ColorScheme-Text {         color:#4d4d4d;       }       &lt;/style&gt;   &lt;/defs&gt;  &lt;path style=&quot;fill:currentColor;fill-opacity:1;stroke:none&quot;       d=&quot;M 7.5 2 L 4 9 L 4.8945312 9.4472656 L 7 5.2363281 L 7 14 L 8 14 L 8 5.2363281 L 10.105469 9.4472656 L 11 9 L 7.5 2 z &quot;      class=&quot;ColorScheme-Text&quot;      /&gt; &lt;/svg&gt;</replace>
+      <replace>&lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; viewBox=&quot;0 0 16 16&quot;&gt;   &lt;defs id=&quot;defs3051&quot;&gt;     &lt;style type=&quot;text/css&quot; id=&quot;current-color-scheme&quot;&gt;       .ColorScheme-NegativeText {         color:#da4453;       }       &lt;/style&gt;   &lt;/defs&gt;   &lt;path      style=&quot;fill:currentColor;fill-opacity:1;stroke:none&quot;       class=&quot;ColorScheme-NegativeText&quot;      d=&quot;m5 2v2h1v-1h4v1h1v-2h-5zm-3 3v1h2v8h8v-8h2v-1zm3 1h6v7h-6z&quot;       /&gt; &lt;/svg&gt;</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/actions/16/node-join.svg" />
+        <option value="$PROJECT_DIR$/apps/48/gtk4-demo.svg" />
+        <option value="$PROJECT_DIR$/apps/48/gtk3-demo.svg" />
+        <option value="$PROJECT_DIR$/apps/48/sun-javaws-jre8.svg" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1366" />
+    <option name="height" value="768" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Dex_KDE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Dex_KDE" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932332" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="3" visible="true" weight="0.24962178" />
+      <window_info id="Structure" order="4" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="3" />
+      <window_info anchor="bottom" id="Find" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="9" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Palette&#9;" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/actions/16/node-join.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/22/node-join.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/48/gtk4-demo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/48/gtk3-demo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/apps/48/sun-javaws-jre8.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/actions/12/object-fill.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
